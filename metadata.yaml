@@ -1,0 +1,38 @@
+_repo: Calumet-K-_30431
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30431-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Merwin, Samuel
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '2744'
+    url: http://www.gutenberg.org/2009/agents/2744
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
+  - agent_name: Webster, Henry Kitchell
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '3868'
+    url: http://www.gutenberg.org/2009/agents/3868
+description: In rough-and-tumble Chicago, honest, idealistic Charlie Bannon finds
+  he needs all his intelligence, drive, and negotiating skills to build a modern grain
+  elevator and a suspension bridge. In his way are greedy stockbrokers and mediocre,
+  shortsighted opponents. Ayn Rand (author of Atlas Shrugged and The Fountainhead
+  ) called this 1901 book one of her favorite novels.
+gutenberg_issued: '2009-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Grain elevators -- Design and construction -- Fiction'
+- !lcsh 'Engineers -- Fiction'
+- !lcc 'PS'
+title: Calumet 'K'
+url: http://www.gutenberg.org/ebooks/30431
